@@ -9,5 +9,5 @@ function ChasquidoDeThanos(Universo){
         }
         return flagUniverso;
 }
-let Universo = [1,2,3,12,4,5,14,56,61,2,45,67,1,2nod]
+let Universo = [1,2,3,12,4,5,14,56,61,2,45,67,1,2]
 console.log(ChasquidoDeThanos(Universo))
